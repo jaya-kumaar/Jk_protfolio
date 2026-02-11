@@ -1,0 +1,3 @@
+# Jk Portfolio
+
+Welcome to my portfolio! This repository showcases my projects, skills, and experience as a developer. Here, you'll find a collection of my work spanning various technologies and domains, demonstrating my passion for building scalable solutions, writing clean code, and solving complex problems. Whether you're looking to collaborate, hire, or simply explore my work, I'm excited to share my journey in software development. Feel free to dive in, explore the projects, and don't hesitate to reach out if you have any questions or opportunities to discuss.
